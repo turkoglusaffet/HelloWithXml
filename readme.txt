@@ -1,0 +1,1 @@
+Simple HelloWorld web application using Spring MVC XML configuration.
